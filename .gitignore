@@ -73,3 +73,9 @@ jest-html-reporters-*
 
 # Expo (Web)
 web-build/
+android/app/build/
+android/.cxx/
+
+# Ignore Android build artifacts
+android/app/build/
+android/build/
